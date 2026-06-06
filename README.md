@@ -21,4 +21,4 @@ While engineering team members managed frontend code components and backend arch
 
 ### 📄 Project Documentation
 You can review our full project overview, features list, and setup instructions directly on our main team page:
-*   [View Group Project Documentation](https://github.com/blob/main/README.md)
+*   [View Group Project Documentation](https://github.com/blob/main/README.md) 
